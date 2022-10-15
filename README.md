@@ -51,7 +51,7 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 </p>
 
 <p align="center">
-  <img src="https://guilyx.vercel.app/api/top-played">
+  <img src="https://hluebbering.vercel.app/api/top-played">
 </p>
  
 ```yaml
