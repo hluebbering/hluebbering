@@ -1,13 +1,6 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=hluebbering&data=followers,repositories,stars,commits)](https://github.com/hluebbering/github-widgetbox)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Black&size=38&duration=2800&pause=2000&color=417649&background=FFFFFF00&vCenter=true&width=670&lines=Homework+2.+Considering+Bias+in+Data)](https://git.io/typing-svg)
-
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
-
-
-
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hannahluebbering&cover_image=true&theme=novatorem&show_offline=false&bar_color=d528e2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hannahluebbering&redirect=true)
 
@@ -23,25 +16,12 @@
 
 
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=hluebbering&custom_title=Hannah's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2047%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
 
-> 🏆 1,175 Contributions in the Year 2022
- > 
-> 📦 324.4 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 35 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -85,22 +65,7 @@ trading                  0 secs              ░░░░░░░░░░░�
 
 ```
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/guilyx/guilyx/master/charts/bar_graph.png) 
-
-
- Last Updated on 14/10/2022 17:16:21 UTC
-<!--END_SECTION:waka-->
-
-Liked it ?
-
-*ETH: **0x482A82761710aeAf04665BB28E32Fb256B4a7bC8***
-
-*BTC: **bc1q0c45w3jvlwclvuv9axlwq4sfu2kqy4w9xx225j***
-
-*DOT: **1Nt7G2igCuvYrfuD2Y3mCkFaU4iLS9AZytyVgZ5VBUKktjX***
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
