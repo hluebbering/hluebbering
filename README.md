@@ -13,8 +13,17 @@
 
 
 <p align="center">
+  <a href="https://hluebbering.vercel.app/api/now-playing">
+    <img src="https://hluebbering.vercel.app/api/now-playing">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://hluebbering.vercel.app/api/top-played">
 </p>
+
+
+
 
 
 
