@@ -9,6 +9,19 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hannahluebbering&cover_image=true&theme=novatorem&show_offline=false&bar_color=d528e2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hannahluebbering&redirect=true)
 
+
+<p align="center">
+  <a href="https://hluebbering.vercel.app/api/now-playing">
+    <img src="https://hluebbering.vercel.app/api/now-playing">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://hluebbering.vercel.app/api/top-played">
+</p>
+
+
+
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=hluebbering&custom_title=Hannah's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
