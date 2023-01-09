@@ -10,6 +10,10 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hannahluebbering&cover_image=true&theme=novatorem&show_offline=false&bar_color=d528e2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=hannahluebbering&redirect=true)
 
 
+[![Spotify](https://spotify-readme-hluebbering.vercel.app/api?rainbow=true&spin=true&theme=dark)](https://spotify-readme-hluebbering.vercel.app/api?rainbow=true?spin=true)
+
+
+
 <p align="center">
   <a href="https://hluebbering.vercel.app/api/now-playing">
     <img src="https://hluebbering.vercel.app/api/now-playing">
